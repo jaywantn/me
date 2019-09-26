@@ -31,10 +31,10 @@ export default class Skill extends Component{
 					  <div className="chart" data-percent={90}><span><strong>AngularJS</strong>90%</span></div>
 					</div>
 					<div className="col-md-3 col-sm-6 col-xs-12 text-center">
-					  <div className="chart" data-percent={85}><span><strong>Ruby</strong>85%</span></div>
+					  <div className="chart" data-percent={85}><span><strong>React</strong>85%</span></div>
 					</div>
 					<div className="col-md-3 col-sm-6 col-xs-12 text-center">
-					  <div className="chart" data-percent={90}><span><strong>Java</strong>90%</span></div>
+					  <div className="chart" data-percent={90}><span><strong>Angular 2+</strong>90%</span></div>
 					</div>
 				  </div>
 				  <div className="row">
@@ -61,7 +61,7 @@ export default class Skill extends Component{
 						</div>
 					  </div>
 					  <div className="progress-wrap">
-						<h3><span className="name-left">Java</span><span className="value-right">85%</span></h3>
+						<h3><span className="name-left">Angular 2+</span><span className="value-right">85%</span></h3>
 						<div className="progress">
 						  <div className="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{width: '85%'}}>
 						  </div>
@@ -77,7 +77,7 @@ export default class Skill extends Component{
 						</div>
 					  </div>
 					  <div className="progress-wrap">
-						<h3><span className="name-left">Ruby</span><span className="value-right">70%</span></h3>
+						<h3><span className="name-left">React</span><span className="value-right">70%</span></h3>
 						<div className="progress">
 						  <div className="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow={70} aria-valuemin={0} aria-valuemax={100} style={{width: '70%'}}>
 						  </div>
@@ -87,6 +87,13 @@ export default class Skill extends Component{
 						<h3><span className="name-left">Python</span><span className="value-right">85%</span></h3>
 						<div className="progress">
 						  <div className="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar" aria-valuenow={85} aria-valuemin={0} aria-valuemax={100} style={{width: '85%'}}>
+						  </div>
+						</div>
+					  </div>
+					  <div className="progress-wrap">
+						<h3><span className="name-left">Javascript</span><span className="value-right">80%</span></h3>
+						<div className="progress">
+						  <div className="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar" aria-valuenow={80} aria-valuemin={0} aria-valuemax={100} style={{width: '80%'}}>
 						  </div>
 						</div>
 					  </div>

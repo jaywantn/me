@@ -20,7 +20,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Web Design</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
@@ -31,7 +30,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Branding</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
@@ -42,7 +40,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Analytics</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
@@ -55,7 +52,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Web Developent</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
@@ -66,7 +62,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Web Marketing</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
@@ -77,7 +72,6 @@ export default class Services extends Component{
 						  </span>
 						  <div className="feature-copy">
 							<h3>Support</h3>
-							<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
 						  </div>
 						</div>
 					  </div>
