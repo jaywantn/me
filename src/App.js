@@ -7,7 +7,7 @@ import Resume from './components/resume';
 import Skill from './components/skill';
 import Services from './components/services';
 import Footer from './components/footer';
-import ContactForm from '../src/components/contact';
+
 
 /**
  * @config prepareing config prop.
@@ -47,11 +47,12 @@ function App() {
 		  <Resume></Resume>
 		  <Services></Services>
 		  <Skill></Skill>
-			<ContactForm config={config}></ContactForm>
+			
 		  <Footer></Footer>
       </div>
     </div>
   );
 }
-
+//<ContactForm config={config}></ContactForm>
+//import ContactForm from '../src/components/contact';
 export default App;
