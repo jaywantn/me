@@ -4,7 +4,7 @@ export default class Header extends Component {
   render() {
     return (
 
-      <header id="fh5co-header" className="fh5co-cover js-fullheight" role="banner" style={{backgroundImage: 'url(%PUBLIC_URL%/images/cover_bg_3.jpg)'}} data-stellar-background-ratio="0.5">
+      <header id="fh5co-header" className="fh5co-cover js-fullheight" role="banner" style={{backgroundImage: 'url(images/cover_bg_3.jpg)'}} data-stellar-background-ratio="0.5">
         <div className="overlay" />
         <div className="container">
           <div className="row">

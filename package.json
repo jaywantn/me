@@ -2,9 +2,11 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://jaywantn.github.io/me",
+  "homepage": "https://jaywantn.github.io/me",
   "dependencies": {
+    "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
+    "prop-types": "^15.7.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.2"
@@ -14,8 +16,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -34,6 +36,6 @@
   },
   "devDependencies": {
     "git-push": "^0.1.1",
-	"gh-pages": "^2.1.1"
+    "gh-pages": "^2.1.1"
   }
 }
